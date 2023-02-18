@@ -1,0 +1,147 @@
+html {
+    font-size:0;
+}
+body {
+    float:left;
+    clear:none;
+    margin: 0;
+    text-align: center;
+}
+.bottom_container {
+}
+.footer-link {
+    width: 100%;
+    height: 100%;
+}
+.text {
+    height: 196px;
+    width: 1500px;
+    position: absolute;
+    top: 270px;
+    right: 190px;
+}
+#back {
+    width: 100%;
+    height: 100%;
+}
+#ground {
+    width: 100%;
+}
+#house {
+    background-image: url("house.png");
+    height: 1024px;
+    width: 796px;
+    position: absolute;
+    top: 690px;
+    right: 590px;
+}
+#house:hover {
+    background-image: url("house2.png");
+    top: 730px;
+    right: 590px;
+}
+#animals {
+    background-image: url("ani.png");
+    height: 700px;
+    width: 600px;
+    position: absolute;
+    top: 1419px;
+    left: -10px;
+}
+#animals:hover {
+    background-image: url("animals.png");
+    height: 320px;
+    width: 530px;
+    position: absolute;
+    top: 1575px;
+    left: 62px;
+}
+#chel {
+    background-image: url("chelti.png");
+    height: 256px;
+    width: 208px;
+    position: absolute;
+    top: 1739.5px;
+    right: 739px;
+}
+#chel:hover {
+    background-image: url("chel1.gif");
+    height: 256px;
+    width: 208px;
+    position: absolute;
+    top: 1739.5px;
+    right: 739px;
+}
+.items1 {
+    position: absolute;
+    top: 377px;
+    right: 155px;
+}
+.item {
+    height: 128px;
+    width: 129px;
+}
+.items2 {
+    position: absolute;
+    top: 623px;
+    right: 155px;
+}
+.emily {
+    height: 103px;
+    width: 120px;
+    position: absolute;
+    top: 805px;
+    left: 200px;
+}
+.items3 {
+    position: absolute;
+    top: 1408px;
+    right: 155px;
+}
+.items4 {
+    position: absolute;
+    top: 1654px;
+    right: 155px;
+}
+.krobus {
+    height: 118px;
+    width: 104px;
+    position: absolute;
+    top: 1776px;
+    left: 320px;
+}
+.items5 {
+    position: absolute;
+    top: 2328px;
+    right: 155px;
+}
+.items6 {
+    position: absolute;
+    top: 2574px;
+    right: 155px;
+}
+.kael {
+    width: 348px;
+    height: 40px;
+    position: absolute;
+    bottom: -1230px;
+    left: 187px;
+}
+.lunatic {
+    width: 244px;
+    height: 40px;
+    position: absolute;
+    bottom: -1230px;
+    left: 923px;
+}
+.soap {
+    width: 156px;
+    height: 52px;
+    position: absolute;
+    bottom: -1242px;
+    left: 1550px;
+}
+.an {
+    width: 100%;
+    height: 100%;
+}
